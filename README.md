@@ -1,3 +1,3 @@
 # to-do
 
-first time learning vue
+look.. i'm just using this repo to learn vue, ok?
